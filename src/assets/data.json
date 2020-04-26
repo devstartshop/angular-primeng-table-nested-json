@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "department": {
+      "name": "Dept1",
+      "head": "Head1"
+    },
+    "employee": {
+      "name": "Employee1",
+      "age": 35,
+      "dob": "02/14/1985"
+    }
+  }
+]
